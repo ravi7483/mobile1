@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mobile</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./assets/css/helper.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+    <section class="hero">
+        <div class="container">
+            <div class="row">
+                <div class="col-6">
+                    <div class="logo">
+                        <a href="index.html">
+                            <img src="./assets/images/logo.png" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <nav>
+                        <ul class="navbar  textright mt-10 mb-40">
+                            <li>
+                                <a href="">home</a>
+                            </li>
+                            <li>
+                                <a href="">features</a>
+                            </li>
+                            <li>
+                                <a href="">download</a>
+                            </li>
+                            <li>
+                                <a href="">blog</a>
+                            </li>
+                            <li>
+                                <a href="">contact</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-6">
+                    <div class="cta-info">
+                        <h2>
+                            Chocolate 
+                            pudding dessert 
+                            jelly
+                        </h2>
+                        <p>
+                            Fruitcake donut gummies. Candy liquorice biscuit. Sugar plum jelly gummi bears brownie toffee cupcake caramels brownie cookie.
+                        </p>
+                        <a href="javascript:;"><i class="fas fa-tablet-alt"></i>Download on Appstore</a>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="cta-img textright">
+                        <img src="./assets/images/mobile.png" alt="iphad.log">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- --------------------------------------------appfeatures-------------------------------------------------------->
+
+    <section class="appfeaturs">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="featurs textcenter">
+                        <h2>
+                            App Features
+                        </h2>
+                        <p class="w-10">
+                            Donut sesame snaps donut pie dessert chupa chups wafer dragée. Gummies fruitcake chupa chups cookie liquorice. Chocolate pudding dessert jelly fruitcake tart jelly wafer. Sweet roll carrot cake croissant.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="scalable-info">
+                <div class="col-4">
+                    <div class="scalable textcenter">
+                        <div class="scalable-img">
+                            <img src="./assets/images/coholate.png" alt="">
+                        </div>
+                        <h2>
+                            scalable
+                        </h2>
+                        <p>
+                            Croissant ice cream macaroon cake. Dessert jelly beans candy cookie. Bear claw candy canes gingerbread caramels cake. Macaroon applicake gummi bears jelly marzipan.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-4">
+                    <div class="instant textcenter">
+                        <div class="instant-img">
+                            <img src="./assets/images/instalate.png" alt="">
+                        </div>
+                        <h2>
+                            instant
+                        </h2>
+                        <p>
+                            Croissant ice cream macaroon cake. Dessert jelly beans candy cookie. Bear claw candy canes gingerbread caramels cake. Macaroon applicake gummi bears jelly marzipan.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="col-4">
+                    <div class="something textcenter">
+                        <div class="something-img">
+                            <img src="./assets/images/scalate.png" alt="">
+                        </div>
+                        <h2>
+                            something
+                        </h2>
+                        <p>
+                            Croissant ice cream macaroon cake. Dessert jelly beans candy cookie. Bear claw candy canes gingerbread caramels cake. Macaroon applicake gummi bears jelly marzipan.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+
+<!-------------------------------------------- hocolate section------------------------------------------------------- -->
+    <section class="hocolate-cake-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-7">
+                    <div class="hocolate-info">
+                        <h3>
+                            <span class="primary">hocolate </span>pudding dessert jelly <span class="primary">fruit cake tart jelly wa</span>fer. 
+                        </h3>
+                        <p>
+                            Donut cupcake lemon drops dragée liquorice apple pie powder. Topping sweet lollipop soufflé chocolate liquorice candy canes. 
+                        </p>
+						<a href="javascript:;">Download</a>
+                    </div>
+                </div>
+            </div>     
+        </div>
+    </section>
+	
+	<section class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="footer-logo">
+					<img src="./assets/images/logo.png" alt="logo-img">
+					</div>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-4">
+					<div class="footer-list">
+						<h4>popular post</h4>
+						<ul>
+							<li>
+								<div class="box"></div>
+								<div class="fruitcake-info">
+									<p>I Love Donut</p>
+									<p>Bonbon Cackes</p>
+								</div>
+							</li>
+							
+							<li>
+								<div class="box"></div>
+								<div class="fruitcake-info">
+									<p>Candy fruitcake</p>
+									<p>biscuit chupa chups</p>
+								</div>
+							</li>
+							
+							<li>
+								<div class="box"></div>
+								<div class="fruitcake-info">
+									<p>Candy fruitcake</p>
+									<p>biscuit chupa chups</p>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-4">
+					<div class="footer-list tweetr-list">
+						<h4>Suits on Tweeter</h4>
+						
+						<ul>
+							<li>SedLex <p>10 hours ago</p></li>
+							<li class="w-75">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </li>
+							<li>follow us</li>
+						
+						</ul>
+					</div>
+				</div>
+				
+				<div class="col-4">
+					<div class="footer-list">
+						<h4>About</h4>
+						<p class="about-info">
+								Cheesecake tiramisu dragée gummies donut cotton candy ice cream I love halvah. Gummies croissant I love gummies gummies. Marshmallow I love gummies sugar plum jelly-o pie. 
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	<footer>
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="footer-info-section textcenter">
+						<p>copyright © Filip Kordanovski 2016</p>
+						<p><a href="javascript:;">www.filipkordanovski.com</a></p>
+						<div class="social-icon">
+							<a href="javascript:;"><i class="fab fa-facebook-f"></i></a>
+							<a href="javascript:;"><i class="fab fa-dribbble"></i></a>
+							<a href="javascript:;"><i class="fab fa-twitter"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+</body>
+</html>
